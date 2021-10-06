@@ -27,3 +27,8 @@ Adds all the modules inside package.json
 $ yarn run watch
 
  Build and run our application.
+
+
+Output 
+
+![image](https://user-images.githubusercontent.com/84713330/136276348-27dbc60a-4ea6-4b90-b202-4ba1954aa0bf.png)
