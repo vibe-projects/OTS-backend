@@ -2,7 +2,9 @@
 
 Prerequisite
  
-Install docker desktop application
+Install docker desktop application    
+
+How to install mongodb to Docker : https://phumipatc.medium.com/how-to-install-mongodb-to-docker-f17cec2b1f8f
 
 -----> ( test for docker installation at Powershell by inputing docker ps )
 
